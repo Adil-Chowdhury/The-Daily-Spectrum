@@ -24,7 +24,6 @@ This repository contains our group's winning design submission, showcasing a com
 *   [Technical Showcase & Safety Integration](#technical-showcase--safety-integration)
 *   [Tools and Technologies](#tools-and-technologies)
 *   [My Professional Takeaways](#my-professional-takeaways)
-*   [Contact](#contact)
 
 ---
 
