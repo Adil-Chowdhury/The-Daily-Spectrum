@@ -1,5 +1,3 @@
-# The-Daily-Spectrum
-
 # "Lights, Camera, Build" - Set Design for 'The Daily Spectrum'
 
 ### BA (Hons) Interior Architecture and Design | Advanced Design Skills
