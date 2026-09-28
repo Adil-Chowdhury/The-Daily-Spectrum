@@ -8,7 +8,7 @@
 
 ### Introduction
 
-This project, "Lights, Camera, Build," was a live competition in collaboration with the University of Hertfordshire's Film Department to design the set for **"The Daily Spectrum,"** a new, universal factual entertainment show concept. As **Project Coordinator**, I led a talented team of four designers to create a single, versatile space that could be quickly adapted for the show's three distinct formats: a bright morning edition, a focused intellectual segment, and a moody late-night show.
+This project, "Lights, Camera, Build," was a live competition in collaboration with the University of Hertfordshire's Film Department to design the set for **"The Daily Spectrum,"** a new, universal factual entertainment show concept. As **Project Coordinator**, I led a talented team of three designers to create a single, versatile space that could be quickly adapted for the show's three distinct formats: a bright morning edition, a focused intellectual segment, and a moody late-night show.
 
 ---
 
